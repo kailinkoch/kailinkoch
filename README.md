@@ -8,4 +8,5 @@
 ### Previous Work
 - Graduate School [Capstone Project](https://gjkls-mims.github.io/capstone-website/)
 - 5G Diffusion: A Network Analysis [Website](https://kailinkoch.github.io/network-5G/)
+- Image captioning paraphraser [ReadMe](https://github.com/kailinkoch/image-paraphraser)
 - Visualizing SF Bike Share Rides in 2020 [Analysis](https://github.com/kailinkoch/baywheels-project/wiki/Insights-from-baywheels-project)
