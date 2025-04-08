@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m a recent graduate from a graduate program at UC Berkeley studying Information Management and Systems
-- 🌱 I’m currently learning machine learning, software and quant methods 
-- Check out my webiste [here](https://kailinkoch.github.io/kailin-website/)! 
+- Check out my website [here](https://kailinkoch.github.io/kailin-website/)! 
 
 ### Previous Work
 - Graduate School [Capstone Project](https://gjkls-mims.github.io/capstone-website/)
